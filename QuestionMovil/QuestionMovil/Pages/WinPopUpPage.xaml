@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup" 
+            xmlns:animations="http://rotorgames.com" 
+           x:Class="QuestionMovil.Pages.WinPopUpPage"
+           
+             CloseWhenBackgroundIsClicked="False" class="QuestionMovil.Pages.WinPopUpPage">
+    <popup:PopupPage.Animation>
+        <animations:ScaleAnimation
+             PositionIn="Top"
+            PositionOut="Bottom"
+            ScaleIn="1.2"
+            ScaleOut="0.8"
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="True"/>
+    </popup:PopupPage.Animation>
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="0" Margin="0">
+        <Frame WidthRequest="270" HeightRequest="280"  Padding="10" CornerRadius="15" >
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height=".1*"/>
+                    <RowDefinition Height=".3*"/>
+                    <RowDefinition Height=".1*"/>
+                    <RowDefinition Height=".2*"/>
+                    <RowDefinition Height=".2*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width=".5*"/>
+                    <ColumnDefinition Width=".5*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="{Binding OpponentUserName}" HorizontalTextAlignment="Center" Grid.Row="0" Grid.Column="0" />
+                <Label Text="{Binding MyUserName}" HorizontalTextAlignment="Center" Grid.Row="0" Grid.Column="1"/>
+                <Image Source="{Binding OpponentAvatar}"  Grid.Row="1" Grid.Column="0"/>
+                <Image Source="{Binding MyUserAvatar}" Grid.Row="1" Grid.Column="1"/>
+                <Label Text="{Binding OpponentQuestion}"  HorizontalTextAlignment="Center" Grid.Row="2" Grid.Column="0" />
+                <Label Text="{Binding MyQuestion}"  HorizontalTextAlignment="Center" Grid.Row="2" Grid.Column="1"/>
+                <Label Text="{Binding Message}"  HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="Large" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" />
+                <Button Text="Siguiente" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Command="{Binding FinishCommand}"/>
+
+            </Grid>
+            
+        </Frame>
+    </StackLayout>
+</popup:PopupPage>

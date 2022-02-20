@@ -1,0 +1,12 @@
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\bin\Debug\netstandard2.0\QuestionService.deps.json
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\bin\Debug\netstandard2.0\QuestionService.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\bin\Debug\netstandard2.0\QuestionService.pdb
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\bin\Debug\netstandard2.0\TheMessage.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\bin\Debug\netstandard2.0\TheMessage.pdb
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\obj\Debug\netstandard2.0\QuestionService.csproj.AssemblyReference.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\obj\Debug\netstandard2.0\QuestionService.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\obj\Debug\netstandard2.0\QuestionService.AssemblyInfo.cs
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\obj\Debug\netstandard2.0\QuestionService.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\obj\Debug\netstandard2.0\QuestionService.csproj.CopyComplete
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\obj\Debug\netstandard2.0\QuestionService.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionService\obj\Debug\netstandard2.0\QuestionService.pdb

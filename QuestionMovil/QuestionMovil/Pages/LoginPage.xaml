@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuestionMovil.Pages.LoginPage"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#747D7F"
+             Visual="Material">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                     HorizontalOptions="FillAndExpand"
+                     Padding="30">
+            <Image Source="questionimg"/>
+            <ActivityIndicator HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="CenterAndExpand"
+                                IsRunning="{Binding ActivitiIsRunning}"/>
+            <Entry Placeholder="Lenguaje"
+                      MaxLength="25"
+                      Text="{Binding Language}"
+                        BackgroundColor="#747D7F"/>
+            <Entry Placeholder="User Name"
+                      MaxLength="25" 
+                      Text="{Binding UserName}"
+                       BackgroundColor="#747D7F"/>
+            <Button 
+                    BackgroundColor="#fe8cb3"
+                    BorderRadius="23"
+                    Text="Registrar"
+                    TextColor="White"
+                     Command="{Binding RegistrerCommand}" />
+            <Button 
+                    BackgroundColor="#fe8c63"
+                    BorderRadius="23"
+                    Text="Entrar"
+                    TextColor="White"
+                     Command="{Binding ConnectedCommsnd}"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

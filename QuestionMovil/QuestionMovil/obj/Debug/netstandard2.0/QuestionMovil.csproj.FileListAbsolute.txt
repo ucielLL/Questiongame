@@ -1,0 +1,15 @@
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\bin\Debug\netstandard2.0\QuestionMovil.deps.json
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\bin\Debug\netstandard2.0\QuestionMovil.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\bin\Debug\netstandard2.0\ref\QuestionMovil.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\bin\Debug\netstandard2.0\QuestionMovil.pdb
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\QuestionMovil.csproj.AssemblyReference.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\QuestionMovil.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\QuestionMovil.AssemblyInfo.cs
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\QuestionMovil.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\QuestionMovil.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\ref\QuestionMovil.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionMovil\QuestionMovil\obj\Debug\netstandard2.0\QuestionMovil.pdb

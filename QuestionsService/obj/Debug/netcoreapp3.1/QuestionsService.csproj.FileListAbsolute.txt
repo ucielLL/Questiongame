@@ -1,0 +1,12 @@
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\bin\Debug\netcoreapp3.1\QuestionsService.deps.json
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\bin\Debug\netcoreapp3.1\QuestionsService.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\bin\Debug\netcoreapp3.1\QuestionsService.pdb
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\obj\Debug\netcoreapp3.1\QuestionsService.csproj.AssemblyReference.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\obj\Debug\netcoreapp3.1\QuestionsService.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\obj\Debug\netcoreapp3.1\QuestionsService.AssemblyInfo.cs
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\obj\Debug\netcoreapp3.1\QuestionsService.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\obj\Debug\netcoreapp3.1\QuestionsService.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\obj\Debug\netcoreapp3.1\QuestionsService.pdb
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\bin\Debug\netcoreapp3.1\TheMessages.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\bin\Debug\netcoreapp3.1\TheMessages.pdb
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\QuestionsService\obj\Debug\netcoreapp3.1\QuestionsService.csproj.CopyComplete

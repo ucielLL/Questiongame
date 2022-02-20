@@ -1,0 +1,9 @@
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\bin\Release\netstandard2.0\TheMessage.deps.json
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\bin\Release\netstandard2.0\TheMessage.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\bin\Release\netstandard2.0\TheMessage.pdb
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\obj\Release\netstandard2.0\TheMessage.csproj.AssemblyReference.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\obj\Release\netstandard2.0\TheMessage.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\obj\Release\netstandard2.0\TheMessage.AssemblyInfo.cs
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\obj\Release\netstandard2.0\TheMessage.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\obj\Release\netstandard2.0\TheMessage.dll
+C:\Users\User\Documents\cursos\xamarin\Preguntas\Funtions\TheMessage\obj\Release\netstandard2.0\TheMessage.pdb
