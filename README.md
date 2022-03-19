@@ -8,7 +8,7 @@ En este proyecto se usó:
 * azure storage
 * azure signal R
 * FreshMVVM <br />
-El proyecto SE relizo 100% con C#
+El proyecto se realizo 100% con C#
 ## Screens ##
 <img src="Imgs/img3.png" width="220" /> <img src="Imgs/img5.png" width="220" />
  <img src="Imgs/img6.png" width="220" /> <img src="Imgs/img2.png" width="220" />
